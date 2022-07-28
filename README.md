@@ -1,5 +1,5 @@
 # No Theme for Oxygen
-**Contributors:** David Browne  
+**Contributors:** MK
 **Tags:** oxygen  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,7 @@ However, theme update notifications will still come through for any themes that 
 
 ## Installation ##
 
-1. [Download the theme here.](https://github.com/wplit/no-theme/archive/master.zip)
+1. [Download the theme here.]
 2. Go to Themes > Add New in your WordPress admin. Click on `Upload Theme` and browse for the zip file.
 3. Activate the Theme.
 4. Replace stylesheet header found in theme to include your own contact details.
